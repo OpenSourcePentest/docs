@@ -1,1 +1,48 @@
 
+
+                                                                                                                                       
+Pentest / Red Team
+Non-Disclosure Agreement
+Provided by: Engagement Team
+Provided on: 12/25/2016
+
+
+ 
+MUTUAL NON-DISCLOSURE AGREEMENT
+ 
+ 
+ 
+This Agreement is made and entered into as of the last date signed below (the “Effective Date”) by and between ___________________, a ___________ corporation having its principal place of business at _______________ ("MyCompany") and __________________________, a ___________ corporation whose principal mailing address is _______________________ (the "Second Party").
+          	WHEREAS MyCompany and the Second Party (the “Parties”) have an interest in participating in discussions wherein either Party might share information with the other that the disclosing Party considers to be proprietary and confidential to itself (“Confidential Information”); and
+          	WHEREAS the Parties agree that Confidential Information of a Party might include, but not be limited to that Party’s: (1) business plans, methods, and practices; (2) personnel, customers, and suppliers; (3) inventions, processes, methods, products, patent applications, and other proprietary rights; or (4) specifications, drawings, sketches, models, samples, tools, computer programs, technical information, or other related information;
+          	NOW, THEREFORE, the Parties agree as follows:
+1.               Either Party may disclose Confidential Information to the other Party in confidence provided that the disclosing Party identifies such information as proprietary and confidential either by marking it, in the case of written materials, or, in the case of information that is disclosed orally or written materials that are not marked, by notifying the other Party of the proprietary and confidential nature of the information, such notification to be done orally, by e-mail or written correspondence, or via other means of communication as might be appropriate.
+2.               When informed of the proprietary and confidential nature of Confidential Information that has been disclosed by the other Party, the receiving Party (“Recipient”) shall, for a period of three (3) years from the date of disclosure, refrain from disclosing such Confidential Information to any contractor or other third party without prior, written approval from the disclosing Party and shall protect such Confidential Information from inadvertent disclosure to a third party using the same care and diligence that the Recipient uses to protect its own proprietary and confidential information, but in no case less than reasonable care.  The Recipient shall ensure that each of its employees, officers, directors, or agents who has access to Confidential Information disclosed under this Agreement is informed of its proprietary and confidential nature and is required to abide by the terms of this Agreement.  The Recipient of Confidential Information disclosed under this Agreement shall promptly notify the disclosing Party of any disclosure of such Confidential Information in violation of this Agreement or of any subpoena or other legal process requiring production or disclosure of said Confidential Information.
+
+
+3.               All Confidential Information disclosed under this Agreement shall be and remain the property of the disclosing Party and nothing contained in this Agreement shall be construed as granting or conferring any rights to such Confidential Information on the other Party.  The Recipient shall honor any request from the disclosing Party to promptly return or destroy all copies of Confidential Information disclosed under this Agreement and all notes related to such Confidential Information.  The Parties agree that the disclosing Party will suffer irreparable injury if its Confidential Information is made public, released to a third party, or otherwise disclosed in breach of this Agreement and that the disclosing Party shall be entitled to obtain injunctive relief against a threatened breach or continuation of any such breach and, in the event of such breach, an award of actual and exemplary damages from any court of competent jurisdiction.
+4.               The terms of this Agreement shall not be construed to limit either Party’s right to develop independently or acquire products without use of the other Party’s Confidential Information. The disclosing party acknowledges that the Recipient may currently or in the future be developing information internally, or receiving information from other parties, that is similar to the Confidential Information. Nothing in this Agreement will prohibit the Recipient from developing or having developed for it products, concepts, systems or techniques that are similar to or compete with the products, concepts, systems or techniques contemplated by or embodied in the Confidential Information provided that the Recipient does not violate any of its obligations under this Agreement in connection with such development.
+5.               Notwithstanding the above, the Parties agree that information shall not be deemed Confidential Information and the Recipient shall have no obligation to hold in confidence such information, where such information:
+(a)        Is already known to the Recipient, having been disclosed to the Recipient by a third party without such third party having an obligation of confidentiality to the disclosing Party; or
+(b)        Is or becomes publicly known through no wrongful act of the Recipient, its employees, officers, directors, or agents; or
+(c)        Is independently developed by the Recipient without reference to any Confidential Information disclosed hereunder; or
+(d)        Is approved for release (and only to the extent so approved) by the disclosing Party; or
+(e)        Is disclosed pursuant to the lawful requirement of a court or governmental agency or where required by operation of law.
+6.               Nothing in this Agreement shall be construed to constitute an agency, partnership, joint venture, or other similar relationship between the Parties.
+7.               Neither Party will, without prior approval of the other Party, make any public announcement of or otherwise disclose the existence or the terms of this Agreement.
+8.               This Agreement contains the entire agreement between the Parties and in no way creates an obligation for either Party to disclose information to the other Party or to enter into any other agreement.
+9.               This Agreement shall remain in effect for a period of two (2) years from the Effective Date unless otherwise terminated by either Party giving notice to the other of its desire to terminate this Agreement.  The requirement to protect Confidential Information disclosed under this Agreement shall survive termination of this Agreement.
+ 
+ 
+ 
+          	IN WITNESS WHEREOF:
+ 
+ 
+               	MyCompany, Inc.                                                              	Company:___________________________
+                                                                           	                  	                                     	
+Signature                                                 	Date                       	Signature                                                                	Date
+                                                                           	                  	                                     	
+                                 	Printed Name                                      	                                           Printed Name
+                                                                           	                  	                                     	
+        	                         Title                                                    	                                           Title
+
