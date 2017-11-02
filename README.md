@@ -1,5 +1,7 @@
 # The documents used for pentest/red team engagements
 
+For reference: https://room362.com/post/2017/open-source-pentesting/
+
 - `nda.adoc` - Mutual Non-Disclosure Agreement
 - `sow.adoc` - Statement of Work
 - `roe.adoc` - Rules of Engagement
